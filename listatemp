@@ -1,0 +1,19 @@
+1. Hacer un programa que determine el área de un triángulo.
+2. Modificar el programa para que determine el área de un pentágono regular.
+3. Hacer un programa que evalúe la siguiente función: f(x)=3x²+5x-6
+4. Hacer un programa que reciba una contraseña y determine si es débil, fuerte o muy fuerte en base a su longitud.
+5. Hacer un programa que cambie de grados Farenheit a Centígrados y diga si hace frío, está templado o hace calor.
+6. Hacer un programa que cambio de grados Farenheit a Centígrados y diga si la temperatura es mayor o menor al punto de ebullición del agua.
+7. Hacer un programa que, mediante un ciclo, eleve un número a una determinada potencia.
+8. Hacer un programa que, dado un intervalo, sume todos los números entre ese intervalo.
+9. Hacer un programa que muestre los números pares entre un intervalo de números y los cuente.
+10. Hacer un programa con una función para obtener el área de un polígono regular de cualquier número de lados. Por ejemplo: areaPoligono(medida, apotema, lados).
+
+11. Hacer un programa que muestre un menú al usuario con las siguientes pizzas:
+1) Personal
+2) Mediana
+3) Grande
+4) Gorila
+Hacer una función que de acuerdo al número regrese el costo de la pizza que sería 40 para la personal, 80 para la mediana, 180 para la grande y 400 para la gorilla. Hacer que el programa también pregunte al usuario cuántas pizzas quiere y calcule el costo total.
+
+12. Hacer una función que pregunte al usuario su nombre y edad e imprima, por ejempo: "Hola, soy Miguel y soy mayor de edad." si es mayor, y "Hola, soy Miguel y soy menor de edad." si es menor.
